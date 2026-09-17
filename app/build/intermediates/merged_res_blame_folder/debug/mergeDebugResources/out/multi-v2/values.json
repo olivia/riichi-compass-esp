@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                },
+                {
+                    "source": "/Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "1,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "16,550",
+                        "endLines": "9,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "545,1076"
+                    },
+                    "to": {
+                        "startLines": "3,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "107,641",
+                        "endLines": "11,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "636,1167"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.riichi.compass.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                },
+                {
+                    "source": "/Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "9,1,-1",
+                        "startColumns": "4,4,-1",
+                        "startOffsets": "488,16,-1",
+                        "endLines": "9,8,-1",
+                        "endColumns": "50,12,-1",
+                        "endOffsets": "534,483,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "107,158,630",
+                        "endLines": "3,11,20",
+                        "endColumns": "50,12,12",
+                        "endOffsets": "153,625,1156"
+                    }
+                }
+            ]
+        }
+    ]
+}

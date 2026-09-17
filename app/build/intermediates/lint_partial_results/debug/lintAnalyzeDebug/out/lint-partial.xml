@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.9.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.riichi.compass.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="drawable[ic_compass(U),dialog_panel(U)],raw[riichi_off(U),riichi_seat_0(U),riichi_seat_1(U),riichi_seat_2(U),riichi_seat_3(U)],string[app_name(U)],style[AppTheme(U),AppThemeBase(U),CompassDialog(U)];8^9,9^a,a^1;;;"/>
+    </map>
+
+</incidents>

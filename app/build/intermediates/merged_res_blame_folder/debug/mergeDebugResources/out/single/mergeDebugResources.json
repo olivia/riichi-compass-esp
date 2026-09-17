@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/drawable_dialog_panel.xml.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/drawable/dialog_panel.xml"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-xxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-xhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/raw_riichi_seat_2.wav.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/raw/riichi_seat_2.wav"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-hdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/drawable/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.riichi.compass.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/raw_riichi_seat_1.wav.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/raw/riichi_seat_1.wav"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-mdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/raw_riichi_seat_3.wav.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/raw/riichi_seat_3.wav"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/drawable_ic_compass.xml.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/drawable/ic_compass.xml"
+    },
+    {
+        "merged": "com.riichi.compass.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.riichi.compass.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/raw_riichi_seat_0.wav.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/raw/riichi_seat_0.wav"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/raw_riichi_off.wav.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/raw/riichi_off.wav"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-debug-4:/mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "/Users/oliviabriggs/.gradle/daemon/8.11.1/com.riichi.compass.app-main-6:/mipmap-xxxhdpi/ic_launcher_background.webp"
+    }
+]

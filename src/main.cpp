@@ -1202,3 +1202,12 @@ void setup()
 void loop()
 {
 }
+
+
+
+#ifdef LVGL_LIVE_PREVIEW
+// MUST be extern "C" so the name isn't mangled and the harness can link it.
+extern "C" void lvgl_live_preview_init(void) {
+  ui_init();
+}
+#endif

@@ -1,0 +1,5 @@
+{
+  "mainFile": "./src/preview.c",
+  "includePaths": ["./include", "./lib", "./lib/ui/"],
+  "defines": []
+}

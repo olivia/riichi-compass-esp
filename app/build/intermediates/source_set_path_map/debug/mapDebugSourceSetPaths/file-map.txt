@@ -1,0 +1,7 @@
+com.riichi.compass.app-pngs-0 /Users/oliviabriggs/git/rlcd-riichi-compass/app/build/generated/res/pngs/debug
+com.riichi.compass.app-resValues-1 /Users/oliviabriggs/git/rlcd-riichi-compass/app/build/generated/res/resValues/debug
+com.riichi.compass.app-packageDebugResources-2 /Users/oliviabriggs/git/rlcd-riichi-compass/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.riichi.compass.app-packageDebugResources-3 /Users/oliviabriggs/git/rlcd-riichi-compass/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.riichi.compass.app-debug-4 /Users/oliviabriggs/git/rlcd-riichi-compass/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.riichi.compass.app-debug-5 /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/debug/res
+com.riichi.compass.app-main-6 /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/res

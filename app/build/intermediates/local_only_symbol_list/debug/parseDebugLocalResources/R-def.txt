@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+drawable dialog_panel
+drawable ic_compass
+drawable ic_launcher_foreground
+drawable ic_launcher_monochrome
+mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_round
+raw riichi_off
+raw riichi_seat_0
+raw riichi_seat_1
+raw riichi_seat_2
+raw riichi_seat_3
+string app_name
+style AppTheme
+style AppThemeBase
+style CompassDialog

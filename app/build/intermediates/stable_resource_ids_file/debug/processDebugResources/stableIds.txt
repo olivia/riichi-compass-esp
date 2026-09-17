@@ -1,0 +1,16 @@
+com.riichi.compass:mipmap/ic_launcher_round = 0x7f050002
+com.riichi.compass:drawable/ic_launcher_monochrome = 0x7f010003
+com.riichi.compass:drawable/ic_launcher_foreground = 0x7f010002
+com.riichi.compass:raw/riichi_seat_3 = 0x7f020004
+com.riichi.compass:raw/riichi_seat_2 = 0x7f020003
+com.riichi.compass:mipmap/ic_launcher = 0x7f050000
+com.riichi.compass:style/AppTheme = 0x7f040000
+com.riichi.compass:string/app_name = 0x7f030000
+com.riichi.compass:raw/riichi_seat_1 = 0x7f020002
+com.riichi.compass:raw/riichi_seat_0 = 0x7f020001
+com.riichi.compass:style/CompassDialog = 0x7f040002
+com.riichi.compass:style/AppThemeBase = 0x7f040001
+com.riichi.compass:drawable/ic_compass = 0x7f010001
+com.riichi.compass:mipmap/ic_launcher_background = 0x7f050001
+com.riichi.compass:raw/riichi_off = 0x7f020000
+com.riichi.compass:drawable/dialog_panel = 0x7f010000

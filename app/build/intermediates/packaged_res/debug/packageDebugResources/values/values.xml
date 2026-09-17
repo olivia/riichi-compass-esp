@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Riichi Compass</string>
+    <style name="AppTheme" parent="AppThemeBase"/>
+    <style name="AppThemeBase" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:colorAccent">#000000</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:alertDialogTheme">@style/CompassDialog</item>
+    </style>
+    <style name="CompassDialog" parent="android:style/Theme.Material.Dialog.Alert">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:colorAccent">#FFFFFF</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#FFFFFF</item>
+        <item name="android:windowBackground">@drawable/dialog_panel</item>
+        <item name="android:colorBackground">#000000</item>
+        <item name="android:backgroundDimAmount">0.15</item>
+    </style>
+</resources>

@@ -1,0 +1,58 @@
+/Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:2: Warning: The attribute android:allowBackup is deprecated from Android 12 and higher and may be removed in future versions. Consider adding the attribute android:dataExtractionRules specifying an @xml resource which configures cloud backups and device transfers on Android 12 and higher. [DataExtractionRules]
+    <application android:label="@string/app_name" android:theme="@style/AppTheme" android:icon="@drawable/ic_compass" android:allowBackup="false" android:supportsRtl="true">
+                                                                                                                                           ~~~~~
+
+   Explanation for issues of type "DataExtractionRules":
+   Before Android 12, the attributes android:allowBackup and
+   android:fullBackupContent were used to configure all forms of backup,
+   including cloud backups, device-to-device transfers and adb backup.
+
+   In Android 12 and higher, these attributes have been deprecated and will
+   only apply to cloud backups. You should instead use the attribute
+   android:dataExtractionRules, specifying an @xml resource that configures
+   which files to back up, for cloud backups and for device-to-device
+   transfers, separately. If your minSdkVersion supports older versions,
+   you'll still want to specify an android:fullBackupContent resource if the
+   default behavior is not right for your app.
+
+   https://developer.android.com/about/versions/12/backup-restore#xml-changes
+   https://goo.gle/DataExtractionRules
+
+/Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/java/com/riichi/compass/LvglTable.java:72: Warning: Avoid object allocations during draw/layout operations (preallocate and reuse instead) [DrawAllocation]
+        paint.setShader(new BitmapShader(bitmap("1492340486"),Shader.TileMode.REPEAT,Shader.TileMode.REPEAT));
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/java/com/riichi/compass/LvglTable.java:79: Warning: Avoid object allocations during draw/layout operations (preallocate and reuse instead) [DrawAllocation]
+                Path outline=new Path();outline.moveTo(x+3,355);outline.lineTo(x+41,355);outline.lineTo(x+44,358);
+                             ~~~~~~~~~~
+
+   Explanation for issues of type "DrawAllocation":
+   You should avoid allocating objects during a drawing or layout operation.
+   These are called frequently, so a smooth UI can be interrupted by garbage
+   collection pauses caused by the object allocations.
+
+   The way this is generally handled is to allocate the needed objects up
+   front and to reuse them for each drawing operation.
+
+   Some methods allocate memory on your behalf (such as Bitmap.create), and
+   these should be handled in the same way.
+
+/Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/java/com/riichi/compass/LvglTable.java:14: Warning: Custom view LvglTable is missing constructor used by tools: (Context) or (Context,AttributeSet) or (Context,AttributeSet,int) [ViewConstructor]
+final class LvglTable extends ViewGroup {
+            ~~~~~~~~~
+/Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/java/com/riichi/compass/SeatPanel.java:8: Warning: Custom view SeatPanel is missing constructor used by tools: (Context) or (Context,AttributeSet) or (Context,AttributeSet,int) [ViewConstructor]
+final class SeatPanel extends ViewGroup {
+            ~~~~~~~~~
+
+   Explanation for issues of type "ViewConstructor":
+   Some layout tools (such as the Android layout editor) need to find a
+   constructor with one of the following signatures:
+   * View(Context context)
+   * View(Context context, AttributeSet attrs)
+   * View(Context context, AttributeSet attrs, int defStyle)
+
+   If your custom view needs to perform initialization which does not apply
+   when used in a layout editor, you can surround the given code with a check
+   to see if View#isInEditMode() is false, since that method will return false
+   at runtime but true within a user interface editor.
+
+0 errors, 5 warnings

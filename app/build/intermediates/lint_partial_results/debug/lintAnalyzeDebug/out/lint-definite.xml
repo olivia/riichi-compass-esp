@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.9.2" type="incidents">
+
+    <incident
+        id="DrawAllocation"
+        severity="warning"
+        message="Avoid object allocations during draw/layout operations (preallocate and reuse instead)">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/riichi/compass/LvglTable.java"
+            line="72"
+            column="25"
+            startOffset="4726"
+            endLine="72"
+            endColumn="109"
+            endOffset="4810"/>
+    </incident>
+
+    <incident
+        id="DrawAllocation"
+        severity="warning"
+        message="Avoid object allocations during draw/layout operations (preallocate and reuse instead)">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/riichi/compass/LvglTable.java"
+            line="79"
+            column="30"
+            startOffset="5222"
+            endLine="79"
+            endColumn="40"
+            endOffset="5232"/>
+    </incident>
+
+    <incident
+        id="ViewConstructor"
+        severity="warning"
+        message="Custom view `LvglTable` is missing constructor used by tools: `(Context)` or `(Context,AttributeSet)` or `(Context,AttributeSet,int)`">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/riichi/compass/LvglTable.java"
+            line="14"
+            column="13"
+            startOffset="394"
+            endLine="14"
+            endColumn="22"
+            endOffset="403"/>
+    </incident>
+
+    <incident
+        id="ViewConstructor"
+        severity="warning"
+        message="Custom view `SeatPanel` is missing constructor used by tools: `(Context)` or `(Context,AttributeSet)` or `(Context,AttributeSet,int)`">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/riichi/compass/SeatPanel.java"
+            line="8"
+            column="13"
+            startOffset="225"
+            endLine="8"
+            endColumn="22"
+            endOffset="234"/>
+    </incident>
+
+</incidents>

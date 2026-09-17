@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:2:5-9:19
+INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:2:5-9:19
+	android:extractNativeLibs
+		INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:5:37-63
+	android:label
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:2:18-50
+	android:roundIcon
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:4:9-54
+	android:icon
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:3:9-43
+	android:allowBackup
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:5:9-36
+	android:theme
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:2:51-82
+activity#com.riichi.compass.MainActivity
+ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:6:9-8:20
+	android:exported
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:6:48-71
+	android:name
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:6:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:7:13-154
+action#android.intent.action.MAIN
+ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:7:28-79
+	android:name
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:7:36-77
+category#android.intent.category.LAUNCHER
+ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:7:79-138
+	android:name
+		ADDED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml:7:89-136
+uses-sdk
+INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml
+INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/oliviabriggs/git/rlcd-riichi-compass/app/src/main/AndroidManifest.xml
